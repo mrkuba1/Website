@@ -1,5 +1,4 @@
-## My first project - own website
-# Title project: **My own website on GitHub Pages**
+## Project - my own website
 
 This website present my web skills (e.g. creating and administration)/
 
